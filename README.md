@@ -30,7 +30,7 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 # Feature Importance
 
 • Importance of individual features <br>
-![image](Outputs/photo_2025-02-27_11-10-19.jpg)
+![image](Outputs/photo_2025-02-27_16-40-59.jpg)
 
 
 
