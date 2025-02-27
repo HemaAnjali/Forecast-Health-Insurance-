@@ -20,15 +20,12 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 • The percentages in each segment represent the proportion of data points in that category. <br>
 
-![image](Outputs/photo_2025-02-27_10-29-40.jpg)
+![image](Outputs/photo_2025-02-27_16-25-44.jpg)
 
 • A person who smoke and have BMI above 30 tends to have a higher medical cost <br>
 
 ![image](Outputs/photo_2025-02-27_10-26-00.jpg)
 
-• A person who smoke and have BMI above 30 tends to have a higher medical cost <br>
-
-![image](Outputs/photo_2025-02-27_10-26-00.jpg)
 
 # Feature Importance
 
