@@ -24,7 +24,7 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 • A person who smoke and have BMI above 30 tends to have a higher medical cost <br>
 
-![image](Outputs/photo_2025-02-27_10-26-00.jpg)
+![image](Outputs/photo_2025-02-27_16-25-30.jpg)
 
 
 # Feature Importance
@@ -32,8 +32,7 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 • Importance of individual features <br>
 ![image](Outputs/photo_2025-02-27_11-10-19.jpg)
 
-• Most important features for predicting of charges <br>
-![image](Outputs/photo_2025-02-27_11-12-28.jpg)
+
 
 
 # Model Evaluation
