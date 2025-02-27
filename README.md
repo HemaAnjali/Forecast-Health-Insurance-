@@ -36,8 +36,6 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 
 # Model Evaluation
-• HeatMap
-![image](Outputs/photo_2025-02-27_16-40-59.jpg)
 
 
 
@@ -46,6 +44,9 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 | Train Accuracy | 0.729 | -0.105 | 0.97 | 0.868 |0.870 |
 | Test Accuracy | 0.806 | -0.134 | 0.882 | 0.901 | 0.904 |
 | CV Score | 0.747 | 0.103 | 0.836 | 0.860 | 0.860 |
+
+• HeatMap
+![image](Outputs/photo_2025-02-27_16-25-50.jpg)
 
 # Conclusion
 Model gave 90% accuracy for Medical Insurance Amount Prediction using XGBoost. This project demonstrates the effectiveness of machine learning, particularly XGBoost, in accurately predicting medical insurance costs based on key factors. It aims to enhance cost transparency and planning, benefiting both insurers and customers.
