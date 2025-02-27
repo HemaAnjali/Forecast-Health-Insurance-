@@ -36,6 +36,10 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 
 # Model Evaluation
+• HeatMap
+![image](Outputs/photo_2025-02-27_16-40-59.jpg)
+
+
 
 | Score | LinearRegression | Support Vector Machine | RandomForest | Gradient Boost| XGBoost|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
