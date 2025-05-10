@@ -1,7 +1,7 @@
-<h1 align="center">Medical Insurance Cost Prediction</h1>
+<h1 align="center">Forecast-Health-Insurance-Expenses</h1>
 
 <div align= "center">
-  <h4>Medical Insurance Cost Prediction using Diiferent Models.</h4><br>
+  <h4>Forecasting Insurance Cost using Diiferent Models.</h4><br>
  </div>
 
 # Overview
